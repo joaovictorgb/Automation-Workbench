@@ -26,5 +26,5 @@ pyautogui.press("enter")
 # Abrir Terminal
 pyautogui.hotkey("winleft")
 pyautogui.write("Terminal")
-time.sleep(2)
+time.sleep(3)
 pyautogui.press("enter")
